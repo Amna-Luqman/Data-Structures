@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-   string arr[6];  // Declare array of size 6
+   string arr[6];  
 
     // Take input from the user
     cout << "Enter 6 names:" << endl;
@@ -19,3 +19,4 @@ int main() {
 
     return 0;
 }
+
